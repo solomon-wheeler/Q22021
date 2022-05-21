@@ -35,7 +35,7 @@ public class CodingQuestionTwo {
 		
 		/************************************************************************************/
 		/*****  ONLY CHANGE THIS ONE LINE OF CODE *******************************************/
-		FlightInterface yourClass = null; // Replace null with your solution!
+		FlightInterface yourClass = new CodingQuestionTwoClass(); // Replace null with your solution!
 		/************************************************************************************/
 		
 		double flightDistance = yourClass.calculateFlightDistance(points);
